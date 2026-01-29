@@ -1,6 +1,9 @@
 <h1>Atividades de HTML e CSS</h1>
 <h2>5 Atividades de HTML e CSS, abordando diferentes aspectos das linguagens.</h2>
 
+## Link para acesso [Aqui](https://ricardobatt.github.io/AtividadesHTML1/Refazendo%20Para%20Aprender/index.html)
+
+
 | Atividades| Conteúdo | Status| 
 | --------- | -------- | ------ |
 | Ficha         |  O uso de classes no HTML para estilizar elementos específicos e o poder dos seletores de classe no CSS.|✅ |
